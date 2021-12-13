@@ -23,7 +23,7 @@ execute, `python3 solution_2.py`
 ### Solution 3
 
 This solution is hybrid, it is using both Selenium and Python requests library. It uses Selenium instance to fetch
-javascript generated cookies and then those cookies are passed to `requests` library in iteration. The script took **8.1
+javascript generated cookies and then those cookies are passed to `requests` library in iteration. The script took **32.4
 seconds** with **4% CPU usage** on my machine. In order to run, execute, `python3 solution_3.py`
 
 ## About JSON fields
